@@ -1,16 +1,21 @@
-### Hi there 👋
+<h3 align="center">Hi! I'm Magnar 👋</h3>
 
-<!--
-**maglus02/maglus02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="mailto:contact@mase.addy.io">Email</a>
+</p>
 
-Here are some ideas to get you started:
+---
+### About me
+- Front-end student at Noroff.
+- Interested in open-source and privacy
+- Plays some games from time to time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Projects
+
+- [Cross-course project](https://github.com/maglus02/CMS-CA)
+- [Semester Project 1](https://github.com/maglus02/SP_Community-Science-Museum)
+- [Project Exam 1](https://github.com/Noroff-FEU-Assignments/project-exam-1-maglus02)
+
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maglus02&layout=compact&theme=dark)
